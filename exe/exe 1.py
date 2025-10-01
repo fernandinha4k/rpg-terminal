@@ -13,6 +13,7 @@ loja_frutas.update({'uva': 8.90, 'tomate': 10})
 print(loja_frutas, '#tomate adicionado')
 
 #função pop: método para remover uma chave 
+#especifica de um dicionario
 loja_frutas.pop('tomate')
 print(loja_frutas, '#tomate removido')
 
